@@ -45,10 +45,11 @@ cp -R yes-i-wrote-it ~/.hermes/skills/yes-i-wrote-it
 - **保留个人判断**：不为了让文本"顺滑"而抹掉作者的观点立场
 - **四桶法工作流**：事实/判断/经验/行动分类提取，精准改写
 - **完整终检清单**：20+ 条 regex 级别查杀规则，避免遗漏
+- **诊断模式**：逐句分析"这句哪里像 AI"，给出精准修改建议
 
 ## 致谢
 
-本 skill 基于 [Pluviobyte/rnskill](https://github.com/Pluviobyte/rnskill) 的「人话.skill」体系（雪踏乌云 @Pluvio9yte）。
+本 skill 基于 [rnskill](https://github.com/Pluviobyte/rnskill) 的人话体系增强。
 
 ## License
 

@@ -404,4 +404,4 @@ metadata:
 
 ## 致谢
 
-本 skill 基于 [Pluviobyte/rnskill](https://github.com/Pluviobyte/rnskill) 的「人话.skill」体系增强，雪踏乌云（@Pluvio9yte）的精细分类体系（二元对比壳、伪洞察标记、冒号讲义腔、四桶法工作流、诊断模式等）构成了本 skill 的核心框架。
+本 skill 基于 [rnskill](https://github.com/Pluviobyte/rnskill) 的人话体系增强。
